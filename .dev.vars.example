@@ -1,2 +1,2 @@
-DATABASE_URL=postgresql://mindarcdb_owner:f3LUEYik8xSQ@ep-withered-hall-a7m6n2ov.ap-southeast-2.aws.neon.tech/mindarcdb?sslmode=require
+DATABASE_URL=
 EXTERNAL_API_URL=https://02557f4d-8f03-405d-a4e7-7a6483d26a04.mock.pstmn.io/get
