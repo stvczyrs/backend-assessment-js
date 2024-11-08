@@ -1,0 +1,17 @@
+meta {
+  name: Update all Products
+  type: http
+  seq: 4
+}
+
+put {
+  url: {{url}}/api/products
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "productCode": "this, is, weird"
+  }
+}

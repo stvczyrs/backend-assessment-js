@@ -1,0 +1,22 @@
+meta {
+  name: Insert Product
+  type: http
+  seq: 2
+}
+
+post {
+  url: {{url}}/api/products
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "productId": "1",
+    "title": "Test",
+    "tags": "abc, 123",
+    "productCode": "111",
+    "createdAt": "2024-11-01",
+    "updatedAt": "2024-11-01"
+  }
+}

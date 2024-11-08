@@ -15,6 +15,13 @@
       "when": 1731050592318,
       "tag": "0001_workable_tusk",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1731053818735,
+      "tag": "0002_famous_bulldozer",
+      "breakpoints": true
     }
   ]
 }
