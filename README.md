@@ -12,7 +12,7 @@
 
 3. Set up environment variables
 
-Temporary db connection string is in `.dev.vars.example`.
+Temporary db connection string will be included in my email to joanna.
 
 `cp .dev.vars.example .dev.vars`
 
